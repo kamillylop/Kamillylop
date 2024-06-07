@@ -1,16 +1,15 @@
-## Hi there 👋
+## seja bem vindo ao meu perfil 🖤
 
-<!--
-**kamillylop/Kamillylop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+meu nome é Hérika Kamilly
 
-Here are some ideas to get you started:
+- sou estudante do ensino médio.
+- sou vice líder de sala e acolhedora da escola.
+- tenho 16 anos.
+- pretendo me formar em engenharia civil ou mecânica.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contato comigo 📧
+  dinosaneherika@gmail.com
+
+  @herikakamilly
+
+  ![](https://media1.tenor.com/m/MIaY6JEgJhEAAAAC/rabbit-confused.gif)
